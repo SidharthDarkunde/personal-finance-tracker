@@ -1,38 +1,30 @@
-# Personal Finance Tracker
+# Finance Tracker
 
-## Overview
-
-Personal Finance Tracker is a Python application that helps users manage their finances by tracking income and expenses. The project allows users to record transactions, monitor spending habits, and view their financial summary.
+A simple Python project to track income and expenses and visualize financial data.
 
 ## Features
 
-* Add income records
-* Add expense records
-* View transaction history
-* Calculate total income and expenses
-* Display current balance
-* Store data locally
-* Simple and user-friendly interface
+* Add income and expenses
+* Calculate total balance
+* Visualize expenses using Matplotlib
 
 ## Technologies Used
 
 * Python
-* Pandas 
-* Matplotlib 
+* Pandas
+* Matplotlib
 
-3. Install dependencies:
-This project requires the following Python libraries:
+## Installation
 
-* pandas
-* matplotlib
+```bash
+pip install pandas matplotlib
+```
 
-## Future Enhancements
+## Run the Project
 
-* Monthly budget planning
-* Expense categorization
-* Data visualization dashboard
-* Export reports to Excel/PDF
-* User authentication
+```bash
+python main.py
+```
 
 ## Author
 
